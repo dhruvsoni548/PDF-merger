@@ -1,1 +1,2 @@
 # PDF-merger
+PDF Merger, a Python project built with the PyPDF2 library, simplifies the process of merging two PDF files, "1.pdf" and "2.pdf," into a single, consolidated PDF document. This project is a practical solution for combining specific PDF files, offering users the convenience of creating a unified PDF that incorporates the content of both input PDFs. 
